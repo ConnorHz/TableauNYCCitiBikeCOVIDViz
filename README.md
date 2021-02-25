@@ -1,2 +1,2 @@
-# TableauNYCCitiBikeCOVIDViz
-Visualizing the effects of COVID on the usage of NYC's Citi Bikes using Tableau
+# NYC Citi Bike Trip Analysis: June 2019/2020
+Citi Bike is the largest bike sharing program in the United States, serving the boroughs of the Bronx, Brooklyn, Manhatten, and Queens. With a daily ridership of around 56,500 in 2019, I was curious what effect, if any, the COVID-19 pandemic would have on the usage of the bikes. Using the publicly available [Citi Bike System Data](https://www.citibikenyc.com/system-data) as well as Tableau, I created some visualizations to
